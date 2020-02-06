@@ -1,5 +1,10 @@
 ## SinjulMSBH \\ Performance Of String Concatenation In C# And .NET Core
 
+
+BenchmarkDotNet=v0.12.0, OS=Windows 10.0.18363
+Intel Core i7-4710HQ CPU 2.50GHz (Haswell), 1 CPU, 8 logical and 4 physical cores
+.NET Core SDK=3.1.200-preview-014883BUG 
+
 ### SingleLineJoin
 | Method | Mean |
 |---|---|
